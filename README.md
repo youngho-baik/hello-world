@@ -1,2 +1,5 @@
 # hello-world
-Just test
+
+hi, 
+I'm a beginner of Github. I'm from KOREA.
+I look forward to your kind cooperation.
